@@ -9,7 +9,8 @@ import com.example.nutriai.services.GeminiAlimenticio
 
 
 // ----- CLAVE API GEMINI -----
-private const val GEMINI_API_KEY = "AIzaSyBYImvQ4-jVrDjlTJlVkMiMgAgmBgDI-f4"
+private const val GEMINI_API_KEY = "?????" // Se quito la API Key por temas de seguridad ya que el repositorio
+                                           // De la app esta publico
 
 class MainActivity : ComponentActivity() {
 
